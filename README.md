@@ -1,2 +1,2 @@
 # blogo
-Mia blogo en Esperanto
+_Mia blogo en Esperanto_
